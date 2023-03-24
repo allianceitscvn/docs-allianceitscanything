@@ -5,7 +5,7 @@
 
 ## Test
 
-* [Page Alliance tạo](test/page-alliance-tao.md)
+* [Page của Alliance](test/page-cua-alliance.md)
 
 ***
 
