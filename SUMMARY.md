@@ -2,12 +2,6 @@
 
 * [Home](README.md)
 
-## Test
-
-* [Page của Hưng](page-cua-hung.md)
-* [Page cua Tram](page-cua-tram.md)
-* [Page của Alliance](test/page-alliance-tao.md)
-
 ## Sites
 
 * [Github](sites/github/README.md)
@@ -20,3 +14,7 @@
 ## AnyThings
 
 * [Cài đặt jenkins](anythings/cai-dat-jenkins.md)
+* [Test anything](anythings/test-anything/README.md)
+  * [Page của Hưng](anythings/test-anything/page-cua-hung.md)
+  * [Page cua Tram](anythings/test-anything/page-cua-tram.md)
+  * [Page của Alliance](anythings/test-anything/page-cua-alliance.md)
