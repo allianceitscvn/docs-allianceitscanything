@@ -9,8 +9,8 @@
 
 ## CICD
 
-* [Cấu hình CICD trên server windows](cicd/cau-hinh-cicd-tren-server-windows.md)
-* [Cấu hình CI/CD cho SMSF](cicd/cau-hinh-ci-cd-cho-smsf.md)
+* [Cấu hình CICD trên server windows](cicd/cau-hinh-cicd-tren-server-windows/README.md)
+  * [Cấu hình CI/CD cho SMSF](cicd/cau-hinh-cicd-tren-server-windows/cau-hinh-ci-cd-cho-smsf.md)
 
 ## AnyThings
 
