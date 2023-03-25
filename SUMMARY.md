@@ -1,16 +1,12 @@
 # Table of contents
 
 * [Home](README.md)
-* [Page 2](page-2.md)
 
 ## Test
 
+* [Page của Hưng](test/page-cua-hung.md)
+* [Page cua Tram](test/page-cua-tram.md)
 * [Page của Alliance](test/page-alliance-tao.md)
-
-***
-
-* [Page cua Tram](page-cua-tram.md)
-* [Page của Hưng](page-cua-hung.md)
 
 ## Sites
 
