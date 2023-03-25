@@ -10,11 +10,12 @@
 ## CICD
 
 * [Cấu hình CICD trên server windows](cicd/cau-hinh-cicd-tren-server-windows.md)
+* [Cấu hình CI/CD cho SMSF](cicd/cau-hinh-ci-cd-cho-smsf.md)
 
 ## AnyThings
 
 * [Cài đặt jenkins](anythings/cai-dat-jenkins.md)
 * [Test anything](anythings/test-anything/README.md)
-  * [Page của Hưng](anythings/test-anything/page-cua-hung.md)
-  * [Page cua Tram](anythings/test-anything/page-cua-tram.md)
-  * [Page của Alliance](anythings/test-anything/page-cua-alliance.md)
+  * [Page của Hưng](page-cua-hung.md)
+  * [Page cua Tram](page-cua-tram.md)
+  * [Page của Alliance](test/page-alliance-tao.md)
