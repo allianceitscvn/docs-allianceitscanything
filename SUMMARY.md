@@ -26,11 +26,12 @@
 
 ## React-JS
 
-* [Giới thiệu](react-js/gioi-thieu.md)
-* [Page 1](react-js/page-1.md)
+* [Giới thiệu chung](react-js/gioi-thieu-chung.md)
+* [Cấu trúc project](react-js/cau-truc-project.md)
 
 ## React-Native x Expo
 
+* [Giới thiệu chung](react-native-x-expo/gioi-thieu-chung.md)
 * [Thư viện](react-native-x-expo/thu-vien.md)
 * [Tính năng](react-native-x-expo/tinh-nang/README.md)
   * [Push notification](react-native-x-expo/tinh-nang/push-notification.md)
