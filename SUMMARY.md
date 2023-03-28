@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
+  * [Todo](home/todo.md)
 
 ## Sites
 
