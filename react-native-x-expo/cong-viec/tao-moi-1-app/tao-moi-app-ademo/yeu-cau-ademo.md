@@ -1,4 +1,4 @@
-# Tạo mới app: ADemo
+# Yêu cầu ADemo
 
 ## Yêu cầu
 
@@ -35,6 +35,3 @@
     * Chuẩn bị hình ảnh, icon, git, khởi tạo project, liên kết firebase, expo.dev v...
     * Coding các màn hình
     * Build chạy
-
-## Quá trình thực hiện
-
