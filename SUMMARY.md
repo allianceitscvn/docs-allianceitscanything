@@ -51,6 +51,8 @@
   * [📄 app.json](react-native-x-expo/cau-truc-project/app.json.md)
   * [📂 src](react-native-x-expo/cau-truc-project/src/README.md)
     * [📂 apps](react-native-x-expo/cau-truc-project/src/apps/README.md)
+      * [📂 template](react-native-x-expo/cau-truc-project/src/apps/template/README.md)
+        * [📄 Info.js](react-native-x-expo/cau-truc-project/src/apps/template/info.js.md)
       * [📂 trackntrace23](react-native-x-expo/cau-truc-project/src/apps/trackntrace23.md)
       * [📂 allianceitsc](react-native-x-expo/cau-truc-project/src/apps/allianceitsc.md)
     * [📂 components](react-native-x-expo/cau-truc-project/src/components/README.md)
