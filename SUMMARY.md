@@ -35,6 +35,8 @@
 * [Giới thiệu chung](react-native-x-expo/gioi-thieu-chung.md)
 * [Thư viện](react-native-x-expo/thu-vien.md)
 * [Công việc](react-native-x-expo/cong-viec/README.md)
+  * [Tạo mới 1 app](react-native-x-expo/cong-viec/tao-moi-1-app/README.md)
+    * [Tạo mới app: ADemo](react-native-x-expo/cong-viec/tao-moi-1-app/tao-moi-app-ademo.md)
   * [Publish store](react-native-x-expo/cong-viec/publish-store/README.md)
     * [Todo template](react-native-x-expo/cong-viec/publish-store/todo-template.md)
   * [Push notification](react-native-x-expo/cong-viec/push-notification/README.md)
