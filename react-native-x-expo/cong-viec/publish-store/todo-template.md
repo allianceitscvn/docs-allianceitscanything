@@ -11,7 +11,7 @@
 * [ ] Tài khoản google play
 * [ ] Icon đẹp, icon notify đẹp
 * [ ] Screenshots nếu có
-* [ ] File aab để build từ key\_release chung
+* [ ] File aab để build từ key\_release chung ([Info](https://drive.google.com/drive/u/0/folders/1qEMoyc47NEB-dexAevBVl1hhZrSFG9E6))
 * [ ] File aab để submit close testing
 
 ## Apple store
